@@ -1,1 +1,51 @@
-# New-repository
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>te amooo muchoo</title>
+    <style>
+        body{
+            font-family:Arial, sans-serif;
+            background: #6767c7;
+            color: #0d0e0d;
+            margin: 0;
+            padding: 20px;
+        }
+        h1{
+            text-align: center;
+            color : #0f2387;
+        }
+        h2{
+            text-align: center;
+            color:rgb(15, 104, 187);
+        }
+        p{
+            text-align: left;
+            font-size: 20px;
+            text-decoration: solid;
+            margin-top: 15px;
+            color : blue;
+        }
+        li{
+            padding-bottom: center;
+        }
+        
+    </style>
+
+</head>
+<body>
+    <h1>Pagina para decirte cuanto te amo</h1>
+    <h2>Solo para ti mi amor</h2>    
+    <p>Dia numero 4 del mes aun te amo mas que ayer pero menos que mañana</p>
+        <ul>
+            <li>
+                prueba en git hub
+            </li>
+            <li>
+                denis 321
+            </li>
+        </ul>
+     <img src="imagen-prueba.png" alt="Imagen de prueba" width="159">
+
+    </body>
